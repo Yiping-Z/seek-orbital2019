@@ -1,0 +1,239 @@
+#main-wrapper{
+  width: 1000px;
+  margin: 0 auto;
+  background: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px solid #C2E6EF6;
+}
+
+.avatar{
+  width: 100px;
+  text-align:center;
+}
+
+.myform{
+  width: 500px;
+  margin: 0 auto;
+}
+.inputvalues{
+  width:500px;
+  margin: 0 auto;
+  padding: 5px;
+}
+#study_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#roommie_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#sports_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#login_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#register_btn{
+  margin-bottom:10px;
+  margin-top:10px;
+  background-color: #3498db;
+  padding:5px;
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#signup_btn{
+  margin-top:10px;
+  background-color: #3498db;
+  padding:5px;
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#back_btn{
+  margin-bottom:10px;
+  margin-top:10px;
+  background-color: #e74c3c;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#logout_btn{
+  margin-top:10px;
+  background-color: #c0392b;
+  padding:5px;
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+  margin-bottom:20px;
+}
+#index_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#h_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:80px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#c_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
+#Y_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+#C_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#S_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+#MU_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+#L_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#M_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#HSSM_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#CLB_btn{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#Science{
+  margin-top:10px;
+  background-color: #27ae60;
+  padding:5px;
+  color:white;
+  width:100px;
+  text-align:center;
+  font-size: 10px;
+  font-weight:bold;
+}
+#s_btn{
+  margin-top:10px;
+  background-color: #3498db;
+  padding:5px;
+  color:white;
+  width:100%;
+  text-align:center;
+  font-size: 18px;
+  font-weight:bold;
+}
